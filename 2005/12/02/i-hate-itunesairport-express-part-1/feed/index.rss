@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: I hate iTunes/Airport Express part 1	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2005/12/02/i-hate-itunesairport-express-part-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2005/12/02/i-hate-itunesairport-express-part-1/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 05 Dec 2005 02:18:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: bfp				</title>
+				<link>https://machaggis.net/bluefacedpixie/2005/12/02/i-hate-itunesairport-express-part-1/#comment-11</link>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2005 02:18:17 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=27#comment-11</guid>
+					<description><![CDATA[The router is setup to LAN one MAC address, Lazy WDS and WDS subnet are disabled.
+
+The AX WDS is configured as a remote base station but I have disabled &quot;Allow wireless connections...&quot;.  So effectively I&#039;m not really using the WDS ability as the laptops hook up to the wireless router as opposed to the AX.   I&#039;m in a wooden 1917 house so there isn&#039;t anything particularly blocking our signals.
+
+(I&#039;ve MacStumbled and executed Airport Client Monitor too - no named other networks or bad noise/weak signal at any time.  Occasionally bandwidth drops a little).
+
+As I understand it, WDS isn&#039;t really necessary but I can&#039;t get an alternative configuration to work.
+
+My next plan of attack is to borrow another AX and swap out the Linksys and see if this eliminates a variable.]]></description>
+		<content:encoded><![CDATA[<p>The router is setup to LAN one MAC address, Lazy WDS and WDS subnet are disabled.</p>
+<p>The AX WDS is configured as a remote base station but I have disabled &#8220;Allow wireless connections&#8230;&#8221;.  So effectively I&#8217;m not really using the WDS ability as the laptops hook up to the wireless router as opposed to the AX.   I&#8217;m in a wooden 1917 house so there isn&#8217;t anything particularly blocking our signals.</p>
+<p>(I&#8217;ve MacStumbled and executed Airport Client Monitor too &#8211; no named other networks or bad noise/weak signal at any time.  Occasionally bandwidth drops a little).</p>
+<p>As I understand it, WDS isn&#8217;t really necessary but I can&#8217;t get an alternative configuration to work.</p>
+<p>My next plan of attack is to borrow another AX and swap out the Linksys and see if this eliminates a variable.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: jonathon				</title>
+				<link>https://machaggis.net/bluefacedpixie/2005/12/02/i-hate-itunesairport-express-part-1/#comment-10</link>
+		<dc:creator><![CDATA[jonathon]]></dc:creator>
+		<pubDate>Sun, 04 Dec 2005 00:16:09 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=27#comment-10</guid>
+					<description><![CDATA[How is your WDS setup ? 
+I&#039;ve seen a WDS setup that basically devoured itself by deciding to chain the relay nodes into a loop. I noticed it because of bad performance and lots of Airport Express dropouts. That said, it was an Apple-only setup and I didn&#039;t have the linksys element.]]></description>
+		<content:encoded><![CDATA[<p>How is your WDS setup ?<br />
+I&#8217;ve seen a WDS setup that basically devoured itself by deciding to chain the relay nodes into a loop. I noticed it because of bad performance and lots of Airport Express dropouts. That said, it was an Apple-only setup and I didn&#8217;t have the linksys element.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

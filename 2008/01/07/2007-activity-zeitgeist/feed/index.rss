@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 2007 Activity Zeitgeist	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 10 Jan 2008 04:40:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: bfp				</title>
+				<link>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/#comment-144</link>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+		<pubDate>Thu, 10 Jan 2008 04:40:01 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=994#comment-144</guid>
+					<description><![CDATA[Term zeitgeist is now under analysis]]></description>
+		<content:encoded><![CDATA[<p>Term zeitgeist is now under analysis</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: danika				</title>
+				<link>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/#comment-143</link>
+		<dc:creator><![CDATA[danika]]></dc:creator>
+		<pubDate>Tue, 08 Jan 2008 18:54:29 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=994#comment-143</guid>
+					<description><![CDATA[You have to click through to see your pies, BTW. Also, is there a way to enlarge them? They&#039;re kinda small...]]></description>
+		<content:encoded><![CDATA[<p>You have to click through to see your pies, BTW. Also, is there a way to enlarge them? They&#8217;re kinda small&#8230;</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

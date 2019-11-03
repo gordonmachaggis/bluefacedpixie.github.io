@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: DRM sucks	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2007/08/25/drm-sucks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2007/08/25/drm-sucks/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 25 Aug 2007 21:55:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: Martin G				</title>
+				<link>https://machaggis.net/bluefacedpixie/2007/08/25/drm-sucks/#comment-131</link>
+		<dc:creator><![CDATA[Martin G]]></dc:creator>
+		<pubDate>Sat, 25 Aug 2007 21:55:14 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2007/08/25/drm-sucks/#comment-131</guid>
+					<description><![CDATA[I by CDs for similar reasons (plus, it&#039;s going to have to take a pretty serious magnetic field to erase a CD...)
+
+I read Stross&#039;s piece, he makes a few good points. And I can recommend the e-book, I&#039;ve got the paper one and it&#039;s worth the investment]]></description>
+		<content:encoded><![CDATA[<p>I by CDs for similar reasons (plus, it&#8217;s going to have to take a pretty serious magnetic field to erase a CD&#8230;)</p>
+<p>I read Stross&#8217;s piece, he makes a few good points. And I can recommend the e-book, I&#8217;ve got the paper one and it&#8217;s worth the investment</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

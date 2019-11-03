@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Rain is Here&#8230;	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 10 Nov 2006 04:31:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: bfp				</title>
+				<link>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/#comment-96</link>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+		<pubDate>Fri, 10 Nov 2006 04:31:28 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/11/07/the-rain-is-here/#comment-96</guid>
+					<description><![CDATA[edited to add basketball on thursday - woot! imagine missing that!]]></description>
+		<content:encoded><![CDATA[<p>edited to add basketball on thursday &#8211; woot! imagine missing that!</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: danika				</title>
+				<link>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/#comment-95</link>
+		<dc:creator><![CDATA[danika]]></dc:creator>
+		<pubDate>Thu, 09 Nov 2006 16:46:37 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/11/07/the-rain-is-here/#comment-95</guid>
+					<description><![CDATA[Yessiree. I can confirm that you biked on Friday.]]></description>
+		<content:encoded><![CDATA[<p>Yessiree. I can confirm that you biked on Friday.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

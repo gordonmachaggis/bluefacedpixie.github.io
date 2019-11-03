@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Geek &#8211; bluefacedpixie</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/category/geek/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 01 Dec 2011 04:20:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>More truth, this time about underwater basket-weaving</title>
+		<link>https://machaggis.net/bluefacedpixie/2011/11/30/more-truth-this-time-about-underwater-basket-weaving/</link>
+				<pubDate>Thu, 01 Dec 2011 04:20:12 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2011/11/30/more-truth-this-time-about-underwater-basket-weaving/</guid>
+				<description><![CDATA[It&#8217;s been a while since I did any typing in bluefacedpixie but jwz&#8217;s reality call needs as many cross-links for ye-olde-google-backrub as possible. I did make a bunch of money by winning the Netscape Startup Lottery, it&#8217;s true. So did most of the early engineers. But the people who made 100x as much as the &#8230; <a href="https://machaggis.net/bluefacedpixie/2011/11/30/more-truth-this-time-about-underwater-basket-weaving/" class="more-link">Continue reading<span class="screen-reader-text"> "More truth, this time about underwater basket-weaving"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>It&#8217;s been a while since I did any typing in bluefacedpixie but <a href="http://www.jwz.org/blog/2011/11/watch-a-vc-use-my-name-to-sell-a-con/">jwz&#8217;s reality call</a> needs as many cross-links for ye-olde-google-backrub as possible.</p>
+<p><i>I did make a bunch of money by winning the Netscape Startup Lottery, it&#8217;s true. So did most of the early engineers. But the people who made 100x as much as the engineers did? I can tell you for a fact that none of them slept under their desk.</i></p>
+<p>So:</p>
+<p><i>I recommend that you do what you love because you love doing it. If that means long hours, fantastic. If that means leaving the office by 6pm every day for your underwater basket-weaving class, also fantastic.</i></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Too bad iPad</title>
+		<link>https://machaggis.net/bluefacedpixie/2010/11/09/too-bad-ipad/</link>
+				<pubDate>Wed, 10 Nov 2010 06:42:19 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Things Mac-like]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2010/11/09/too-bad-ipad/</guid>
+				<description><![CDATA[The iPad is a closed consumer device, despite occasional illusions to the contrary. It has deluded more than a few though. This story says it all, but you can guess it &#8211; be careful for what you wish for but Apple restrictions will nab you. So ends the experiment. A success and complete failure. iPad &#8230; <a href="https://machaggis.net/bluefacedpixie/2010/11/09/too-bad-ipad/" class="more-link">Continue reading<span class="screen-reader-text"> "Too bad iPad"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>The iPad is a closed consumer device, despite occasional illusions to the contrary.  It has deluded more than a few though.  <a href="http://andrewhy.de/two-months-with-ipad-as-my-computer/">This story says it all</a>, but you can guess it &#8211; be careful for what you wish for but Apple restrictions will nab you.</p>
+<blockquote>
+<p>So ends the experiment. A success and complete failure.
+</p>
+<p>iPad as a toy? Oh yeah, best product out there. iPad as a computing device. When things go wrong, they go really, really wrong.
+</p>
+</blockquote>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Find and Undo</title>
+		<link>https://machaggis.net/bluefacedpixie/2010/07/30/find-and-undo/</link>
+				<pubDate>Sat, 31 Jul 2010 05:58:48 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Things Mac-like]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2010/07/30/find-and-undo/</guid>
+				<description><![CDATA[After playing with my recent app purchase &#8211; iThoughtsHD &#8211; for an hour or so, I once more stop to reflect on the backwards nature of software development and user experience and useful &#8211; as opposed to checklist feature-creep &#8211; functionality. Where does the useful stuff go? Why do folks think it&#8217;s ok to stop &#8230; <a href="https://machaggis.net/bluefacedpixie/2010/07/30/find-and-undo/" class="more-link">Continue reading<span class="screen-reader-text"> "Find and Undo"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>After playing with my recent app purchase &#8211; <a href="http://itunes.apple.com/us/app/ithoughtshd-mindmapping/id369020033?mt=8">iThoughtsHD</a> &#8211; for an hour or so, I once more stop to reflect on the backwards nature of software development and user experience and useful &#8211; as opposed to checklist feature-creep &#8211; functionality.  </p>
+<p>Where does the useful stuff go?</p>
+<p>Why do folks think it&#8217;s ok to stop doing the few basic things that UI and faster CPUs sweat blood on during the 80s, 90s and lost in the 2000s?  </p>
+<p>I&#8217;m talking:</p>
+<p>* copy and paste &#8211; hello iPhone, and ummm hello windows phone 7?<br />
+* in-app find &#8211; hello web 2.0, browser search is not find, is not incremental search, is not find and replace<br />
+* in-app find &#8211; hello APPLE! Didn&#8217;t you learn from the previous bullet? I want to find things in mail and safari and now you have an absolute gazillion apps hanging out on your AppStore all copying your piss poor example!<br />
+* undo &#8211; I mean, really. Emacs had it. We made fun of web 2.0 apps. And now the whole barmy mobile world thinks it&#8217;s a good idea to treat delete like an atom bomb unless they hide it in some stupid ass gesture like shake. I&#8217;m sorry, I reserve shake for when I&#8217;m shouting at my technical gadgets while threatening to throw them out the window for not having bl**dy undo. </p>
+<p>I didn&#8217;t just lose a whole branch of my first iThoughts mindmap by using delete and discovering there was no undo. </p>
+<p>Ok, I did. B*gger. It&#8217;s still wrong.  </p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>A strange break in my&#8230;.</title>
+		<link>https://machaggis.net/bluefacedpixie/2010/05/31/a-strange-break-in-my/</link>
+				<pubDate>Tue, 01 Jun 2010 06:06:42 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Things Mac-like]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=1325</guid>
+				<description><![CDATA[I like Macs. They work. Built well. Look pretty. OS X is my kinda thing, I&#8217;m a Unix with pretty graphics kind of guy. Since I bought the compulsive netbook a few years ago I have gone places I never dreamt. Ubuntu, Mac OS X hacked installs, Windows 7 Betas. And I&#8217;ve also *opened a &#8230; <a href="https://machaggis.net/bluefacedpixie/2010/05/31/a-strange-break-in-my/" class="more-link">Continue reading<span class="screen-reader-text"> "A strange break in my&#8230;."</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I like Macs.  They work.  Built well.  Look pretty.  OS X is my kinda thing, I&#8217;m a Unix with pretty graphics kind of guy.</p>
+<p>Since I bought the compulsive netbook a few years ago I have gone places I never dreamt.  Ubuntu, Mac OS X hacked installs, Windows 7 Betas.</p>
+<p>And I&#8217;ve also <a href="http://machaggis.net/bluefacedpixie/index.php/2008/11/05/heres-what-i-did-on-halloween-scary/">*opened a computer*</a>.  I cringe at the thought.  I&#8217;m a software guy.  Virtual is good.  Anyway, 2 nights before going to Mexico I dropped the netbook, blew the LCD and deprived L of a portable entertainment machine.  My punishment was 1) to lug 6+lbs of MacBook Pro to Mexico to do nothing and 2) to tread once more into the world of _really small screws_.  So I replaced the LCD tonight using <a href="http://bespokeblog.wordpress.com/2009/10/18/how-to-replace-the-lcd-screen-on-an-acer-aspire-one/">these mostly-right instructions</a> and a sub $100 with shipping screen from North Vancouver (src: China) of all places.  It went well.  I may post the one photo later, but really it&#8217;s all blasé now and I&#8217;m starting to be more of a soldering guy.</p>
+<p><i>Not.</i></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>1 hour 12 minutes</title>
+		<link>https://machaggis.net/bluefacedpixie/2010/04/27/1-hour-12-minutes/</link>
+				<pubDate>Wed, 28 Apr 2010 06:26:55 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[This Website]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=1318</guid>
+				<description><![CDATA[It may be counting chickens, but if the godaddy forwarding kicks in within the next few hours fortheloveofgoditsmascarpone.com will be the internet&#8217;s most recent &#8220;Single Serving Site&#8220;. I&#8217;m rusty, rusty but in the last 72 minutes to starting to write this post: Registered fortheloveofgoditsmascarpone.com at godaddy.com Realized they have less free things than they used &#8230; <a href="https://machaggis.net/bluefacedpixie/2010/04/27/1-hour-12-minutes/" class="more-link">Continue reading<span class="screen-reader-text"> "1 hour 12 minutes"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>It may be counting chickens, but if the godaddy forwarding kicks in within the next few hours <a href="http://fortheloveofgoditsmascarpone.com">fortheloveofgoditsmascarpone.com</a> will be the internet&#8217;s most recent &#8220;<a href="http://isthisyourpaperonsingleservingsites.com/">Single Serving Site</a>&#8220;.</p>
+<p>I&#8217;m rusty, rusty but in the last 72 minutes to starting to write this post:</p>
+<ol>
+<li>Registered <strong>fortheloveofgoditsmascarpone.com</strong> at <strong>godaddy.com</strong>
+</li>
+<li>Realized they have less free things than they used to
+</li>
+<li>Forwarded it to <strong>http://machaggis.net/fortheloveofgoditsmascarpone.com</strong> (still to kick in at this instant) with framing
+</li>
+<li>Registered for <em>AdWords</em>, realized its the wrong thing
+</li>
+<li>Registered for <em>AdSense</em>, have a sneaking suspicion I may have done this before years ago, get told to wait two or three days
+</li>
+<li>Hacked up (with too much google love) the <strong>index.html</strong> page
+</li>
+<li>Messed around with fonts, styles, underlines and margins
+</li>
+<li>CVS my launch files (all one of them: <strong>index.html</strong>)
+</li>
+<li>Upload to <a href="http://machaggis.net/fortheloveofgoditsmascarpone.com">http://machaggis.net/fortheloveofgoditsmascarpone.com</a> (use this link if the forwarding isn&#8217;t working yet)
+</li>
+<li>Comment on Danika&#8217;s single serving site Facebook post with cross-advertising for: <a href="http://fortheloveofgoditsmascarpone.com">fortheloveofgoditsmascarpone.com</a>
+</li>
+<li>Write this blog post
+</li>
+<li>Re-edit this blog post with bolds for all the non-linked domain names
+</li>
+<li>Retire to richness, fame, and internet-geekery.  I could have been unpacking I guess.</li>
+</ol>
+<p>Good night.</p>
+<p><i>Update:</i> And then we fiddle again and smartquote the main page &#8211; the lack of curly quotes was quite unsightly.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>So geeky it hurts&#8230;</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/08/15/so-geeky-it-hurts/</link>
+				<pubDate>Sun, 16 Aug 2009 04:13:35 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Blog This]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=1273</guid>
+				<description><![CDATA[Stackoverflow.com&#8217;s &#8220;What is your best programmer joke?&#8221;. So far: Q: How many prolog programmers does it take to change a lightbulb? A: Yes. and If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.]]></description>
+								<content:encoded><![CDATA[<p>Stackoverflow.com&#8217;s <a href="http://stackoverflow.com/questions/234075/what-is-your-best-programmer-joke">&#8220;What is your best programmer joke?&#8221;</a>.</p>
+<p>So far:</p>
+<blockquote>
+<p>
+Q: How many prolog programmers does it take to change a lightbulb?<br />
+A: Yes.
+</p>
+</blockquote>
+<p>and</p>
+<blockquote>
+<p>
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program.<br />
+The rest of them will write Perl programs.
+</p>
+</blockquote>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>10,000 Galaxies</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/08/12/10000-galaxies/</link>
+				<pubDate>Thu, 13 Aug 2009 04:30:38 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Blog This]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2009/08/12/10000-galaxies/</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[<p><object width="400"><param name="movie" value="http://www.youtube.com/v/oAVjF_7ensg&#038;hl=en&#038;fs=1&#038;color1=0x2b405b&#038;color2=0x6b8ab6&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/oAVjF_7ensg&#038;hl=en&#038;fs=1&#038;color1=0x2b405b&#038;color2=0x6b8ab6&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="400"></embed></object></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>goodreads.com Book Reviews follow-up</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/08/06/goodreadscom-book-reviews-follow-up/</link>
+				<pubDate>Fri, 07 Aug 2009 05:12:17 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[This Website]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2009/08/06/goodreadscom-book-reviews-follow-up/</guid>
+				<description><![CDATA[I&#8217;m just copying and pasting the review of Down and Out in The Magic Kingdom over here to bluefacedpixie and I note that the links I was complaining about before are now fixed &#8211; absolute links to goodreads pages as opposed to relative links to non-existent bluefacedpixie pages. No word as to why, and no &#8230; <a href="https://machaggis.net/bluefacedpixie/2009/08/06/goodreadscom-book-reviews-follow-up/" class="more-link">Continue reading<span class="screen-reader-text"> "goodreads.com Book Reviews follow-up"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;m just copying and pasting the review of <a href="http://machaggis.net/bluefacedpixie/index.php/2009/08/06/book-down-and-out-in-the-magic-kingdom/">Down and Out in The Magic Kingdom</a> over here to bluefacedpixie and I note that the links <a href="http://machaggis.net/bluefacedpixie/index.php/2009/07/15/goodreadscom-book-reviews/">I was complaining about before</a> are now fixed &#8211; absolute links to goodreads pages as opposed to relative links to non-existent bluefacedpixie pages.</p>
+<p>No word as to why, and no response to my email I sent them, but at least it&#8217;s done.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Developers hate the iPhone App Store</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/07/29/developers-hate-the-iphone-app-store/</link>
+				<pubDate>Thu, 30 Jul 2009 02:17:57 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Blog This]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Rants]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2009/07/29/developers-hate-the-iphone-app-store/</guid>
+				<description><![CDATA[And they should. It&#8217;s a disgrace. Apple semi-fanboy that I am, they should be ashamed. See also DF on this post.]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.polarbearfarm.com/blog/?p=124">And they should</a>.  It&#8217;s a disgrace.  Apple semi-fanboy that I am, they should be ashamed.  See also <a href="http://daringfireball.net/linked/2009/07/29/duncan-app-store">DF on this post</a>.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>1 * #</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/07/29/1/</link>
+				<pubDate>Wed, 29 Jul 2009 23:32:29 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Blog This]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2009/07/29/1/</guid>
+				<description><![CDATA[One. Star. Pound. Key sequence to defeat mind-numbing (and profit generating) voicemail crap from cellphone providers. Thanks Poguey!]]></description>
+								<content:encoded><![CDATA[<p><a href="http://pogue.blogs.nytimes.com/2009/07/29/how-to-bypass-stupid-voicemail-instructions/">One. Star. Pound.</a>  Key sequence to defeat mind-numbing (and profit generating) voicemail crap from cellphone providers.  Thanks Poguey!</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

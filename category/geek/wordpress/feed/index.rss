@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wordpress &#8211; bluefacedpixie</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/category/geek/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 10 Jul 2009 03:38:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>Hacked!</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/07/09/hacked/</link>
+				<pubDate>Fri, 10 Jul 2009 03:38:17 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[This Website]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=1246</guid>
+				<description><![CDATA[Tried out bing! today as an alternative to google. When I searched for the machaggis.net blogs bing faithfully returned them with a lot of spam/SEO optimized crap that looks like it&#8217;s inserted into bluefacedpixie and planetdanika. Yup, somewhere along the line I&#8217;ve been hacked. I&#8217;ve let the robotic logins slide for waaay too long, relying &#8230; <a href="https://machaggis.net/bluefacedpixie/2009/07/09/hacked/" class="more-link">Continue reading<span class="screen-reader-text"> "Hacked!"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Tried out <a href="http://bing.com">bing!</a> today as an alternative to google.  When I searched for the machaggis.net blogs bing faithfully returned them with a lot of spam/SEO optimized crap that looks like it&#8217;s inserted into <a href="http://bluefacedpixie.com">bluefacedpixie</a> and <a href="http://planetdanika.com">planetdanika</a>.</p>
+<div class="imgcenter"><img src="http://machaggis.net/bluefacedpixie/wp-content/hacked.jpg" width="400" alt="" /></div>
+<p>Yup, somewhere along the line I&#8217;ve been hacked.  </p>
+<p>I&#8217;ve let the robotic logins slide for waaay too long, relying on the math plugin to prevent comment spam, but somewhere my decrepit, embarrassingly old, installation of WordPress has been goosed.</p>
+<p>So, sometime in the near future we will go offline and I will attempt to rectify the hackery.  Even though I should be either mountain biking or working on the house.  Damn, and I&#8217;m taking this Friday off too.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>No One Reads My Blog Anyway</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/01/03/no-one-reads-my-blog-anyway/</link>
+				<comments>https://machaggis.net/bluefacedpixie/2009/01/03/no-one-reads-my-blog-anyway/#comments</comments>
+				<pubDate>Sun, 04 Jan 2009 01:35:16 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[This Website]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2009/01/03/no-one-reads-my-blog-anyway/</guid>
+				<description><![CDATA[Re-treading old ground, perhaps, but we&#8217;ve been unavailable some sometime today and I bet you didn&#8217;t notice. In the world of geek, machaggis.net moved hosting providers. We left luxsci.com and moved to sustainablewebsites.com. What this means for machaggis.net: no top page on machaggis.net as I&#8217;ve only moved the blogs the blogs are all working (tell &#8230; <a href="https://machaggis.net/bluefacedpixie/2009/01/03/no-one-reads-my-blog-anyway/" class="more-link">Continue reading<span class="screen-reader-text"> "No One Reads My Blog Anyway"</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.onehorseshy.com/highbrow/no_one_cares_about_your_blog?pid=onehorseshy.34131604">Re-treading old ground</a>, <a href="http://machaggis.net/bluefacedpixie/index.php/2005/12/13/bloggin">perhaps</a>, but we&#8217;ve been unavailable some sometime today and I bet you didn&#8217;t notice.</p>
+<p>In the world of geek, machaggis.net moved hosting providers.</p>
+<p>We left <a href="http://luxsci.com">luxsci.com</a> and moved to <a href="http://www.sustainablewebsites.com/">sustainablewebsites.com</a>.</p>
+<p>What this means for machaggis.net:</p>
+<ul>
+<li>no top page on machaggis.net as I&#8217;ve only moved the blogs
+</li>
+<li>the blogs are all working (tell me if they are not)
+</li>
+<li>new email systems (but our email addresses are the same)
+</li>
+</ul>
+<p>For the occasional reader, it should mean nothing is different (perhaps a re-flush of RSS feeds, perhaps a lost email in a very small window today).</p>
+<p>Luxsci was fine, but a little more serious and industrial strength than our little family website needed and now we&#8217;re <a href="http://www.sustainablewebsites.com/wind-power">wind-powered</a>, eco-friendly and have <a href="http://www.sustainablewebsites.com/green-web-hosting-services">oodles of more stuff</a> for less money.  C&#8217;est la vie.</p>
+<p>Welcome to the New Year.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://machaggis.net/bluefacedpixie/2009/01/03/no-one-reads-my-blog-anyway/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Lessons in Spam</title>
+		<link>https://machaggis.net/bluefacedpixie/2007/03/08/lessons-in-spam/</link>
+				<pubDate>Fri, 09 Mar 2007 07:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[This Website]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=825</guid>
+				<description><![CDATA[Well, it had to happen. I&#8217;ve been spending time fixing spam issues on some of my little websites and have also ran into an email spam problem. First of all, the website issues. From the turn of the year I noticed a large spike in comment spam hitting ballardcornerspark.org. This isn&#8217;t really that surprising &#8211; &#8230; <a href="https://machaggis.net/bluefacedpixie/2007/03/08/lessons-in-spam/" class="more-link">Continue reading<span class="screen-reader-text"> "Lessons in Spam"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Well, it had to happen.  I&#8217;ve been spending time fixing spam issues on some of my little websites and have also ran into an email spam problem.</p>
+<p>First of all, the website issues.  From the turn of the year I noticed a large spike in comment spam hitting <a href="http://ballardcornerspark.org">ballardcornerspark.org</a>.  This isn&#8217;t really that surprising &#8211; its a public website, we broadcast the address, and the @ballardcornerspark.org email addresses get hosed all the time.    I cranked out google and <a href="http://ballardcornerspark.org/ballardcornerspark/index.php/2007/02/21/admin-note-spam-protection/">found a couple of nice plugins for WordPress 2</a> that I installed and the problem disappeared (so far!).  Basically a simple math question to post a comment and also a tool to close old posts from comments.</p>
+<p>And then a few days ago, <a href="http://bluefacedpixie.com">bluefacedpixie</a> started to get hit too (mostly from one bad IP address that I could block) at least 2 comments an hour.   The cutting edge of fame &#8211; my <a href="http://machaggis.net/bluefacedpixie/index.php/2007/01/15/nice-design-lifetime-warranty/">Ridgid post</a> was spotlighted at <a href="http://www.37signals.com/svn/posts/286-designed-movie-poster-of-the-year-bill-sullivan-photographs-ridgid-drill-and-new-coins">Signal vs. Noise</a> which probably led robots to find the bfp blog &#8211; my own little version of being slashdotted (and my bandwidth use did jump too&#8230;).  I started to get repetitive strain injury with the whole &#8220;mark all as spam&#8221; comment moderation so tonight added a couple of additions along the same lines to bluefacedpixie.  The same <a href="http://sw-guide.de/wordpress/math-comment-spam-protection-plugin/">Math Comment Spam Plugin</a> as used on ballardcornerspark, but I used a simpler <a href="http://codex.wordpress.org/Plugins/Auto_shutoff_comments">Comment Shutoff</a> because this blog is older with a more hacked installation of WordPress (note to self: someday take the time to upgrade to WordPress 2).</p>
+<p>I&#8217;ll let you know how they do &#8211; by the time I finish this post I will have missed a few timeslots for new spam to arrive.  </p>
+<p>If successful then I suppose the rest of the family (<a href="http://planetdanika.com">planetdanika</a>, <a href="http://machaggis.net/premodernist">premodernist</a> and <a href="http://machaggis.net/thanksgiving">Ringraziamento</a>) will all need the same treatment.</p>
+<p>And now we get to the sad tale of my email address and <i>other people&#8217;s computers</i>.  A few weeks ago I sent out Lucy&#8217;s birth announcement to what we could conservatively call half the English-speaking world.  Mostly using email addresses provided by D.   As D was busy <a href="http://machaggis.net/bluefacedpixie/index.php/2007/01/22/i-may-be-distracted-for-some-time/">that day</a> I sent out the email: to <i>self</i>, bcc <i>known universe</i>, from <i><b>me</b></i>.  Ooops.</p>
+<p>Since that day I&#8217;ve been getting hit by email spam much more than normal: Spam Assassin is failing at my host provider, Apple Mail&#8217;s pretty-crappy Junk filter fails to catch them and my carefully crafted &#8220;smack it dead unless it&#8217;s sent to me&#8221; filter also fails.   Mostly stock market spam, very well done most of it too.   My only assumption is that some of the recipients of the birth email are hacked/spambotted/virused and my very visible &#8220;from&#8221; email address is now on more spammers sell lists that previously.  Bugger.  I should have used a more temporary email address, but we so wanted those replies.</p>
+<p>If you received the Lucy announcement and read this blog, and people you email complain about all the spam they get &#8211; you might want to run a little &#8220;clean my computer&#8221; magic on the old Windows box.</p>
+<p>No spam so far, I&#8217;m going to bed.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Spidey was always my favourite</title>
+		<link>https://machaggis.net/bluefacedpixie/2007/01/04/spidey-was-always-my-favourite/</link>
+				<pubDate>Fri, 05 Jan 2007 02:24:01 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=790</guid>
+				<description><![CDATA[And now the Super Hero Quiz confirms it &#8211; I am Spiderman. &#8220;You are intelligent, witty, a bit geeky and have great power and responsibility.&#8221; Spider-Man 90% Robin 82% Superman 65% The Flash 65% Green Lantern 55% Batman 50% Wonder Woman 40% Supergirl 40% Hulk 30% Iron Man 25% Catwoman 5% Click here to take &#8230; <a href="https://machaggis.net/bluefacedpixie/2007/01/04/spidey-was-always-my-favourite/" class="more-link">Continue reading<span class="screen-reader-text"> "Spidey was always my favourite"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>And now the <a href="http://www.thesuperheroquiz.com">Super Hero Quiz</a> confirms it &#8211; I <b>am</b> Spiderman. </p>
+<p>&#8220;You are intelligent, witty, a bit geeky and have great power and responsibility.&#8221;</p>
+<p><img SRC="http://www.thesuperheroquiz.com/pics/spidy.gif"/></p>
+<table>
+<tr>
+<td>Spider-Man</td>
+<td align=top>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=90/></td>
+<td> 90%</td>
+</tr>
+<tr>
+<td>Robin</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=82/></td>
+<td> 82%</td>
+</tr>
+<tr>
+<td>Superman</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=65/></td>
+<td> 65%</td>
+</tr>
+<tr>
+<td>The Flash</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=65/></td>
+<td> 65%</td>
+</tr>
+<tr>
+<td>Green Lantern</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=55/></td>
+<td> 55%</td>
+</tr>
+<tr>
+<td>Batman</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=50/></td>
+<td> 50%</td>
+</tr>
+<tr>
+<td>Wonder Woman</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=40/></td>
+<td> 40%</td>
+</tr>
+<tr>
+<td>Supergirl</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=40/></td>
+<td> 40%</td>
+</tr>
+<tr>
+<td>Hulk</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=30/></td>
+<td> 30%</td>
+</tr>
+<tr>
+<td>Iron Man</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=25/></td>
+<td> 25%</td>
+</tr>
+<tr>
+<td>Catwoman</td>
+<td>
+<hr ALIGN=LEFT NOSHADE SIZE=4 WIDTH=5/></td>
+<td> 5%</td>
+</tr>
+</table>
+<p><a HREF="http://www.thesuperheroquiz.com/">Click here to take the &#8220;Which Superhero am I?&#8221; quiz&#8230;</a></p>
+<p><i datetime="2007-01-07T19:08:13+00:00">Update: Ugly!  After much messing about with the formatting here I managed to get wordpress to display this table correctly.  Even though I&#8217;m on &#8220;HTML Editor&#8221; and not &#8220;WYSIWYG&#8221; the table markup was building a lot of <b>br</b> markups that were being displayed before the table &#8211; so I had to enter the table with no line breaks.  It&#8217;s ugly in the editor now, but doesn&#8217;t look too bad as a post.</i></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>WordPress Search</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/11/17/wordpress-search/</link>
+				<pubDate>Sat, 18 Nov 2006 05:55:47 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Ballard Corners Park]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=703</guid>
+				<description><![CDATA[Geek note to self follows Ballard Corners Park search wasn&#8217;t working after you left the top page &#8211; the redirect for the form post was just wrong. But I compare the bluefacedpixie, planetdanika and ballardcornerspark sidebar.php and &#8220;permalinks&#8221; and &#8220;general&#8221; options and all was the same. Mmmmm. I&#8217;m not hitting index.php, but the configs are &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/11/17/wordpress-search/" class="more-link">Continue reading<span class="screen-reader-text"> "WordPress Search"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Geek <em>note to self</em> follows<br />
+<span id="more-703"></span><br />
+<a href="http://ballardcornerspark.org">Ballard Corners Park</a> search wasn&#8217;t working after you left the top page &#8211; the redirect for the form post was just wrong.</p>
+<p>But I compare the <a href="http://bluefacedpixie.com">bluefacedpixie</a>, <a href="http://planetdanika.com">planetdanika</a> and ballardcornerspark <code>sidebar.php</code> and &#8220;permalinks&#8221; and &#8220;general&#8221; options and all was the same.</p>
+<p>Mmmmm.  I&#8217;m not hitting <code>index.php</code>, but the configs are the same.  Is it a &#8220;.org&#8221; conspiracy?  I think not.  The WordPress versions are different &#8211; the Park is the only website on WordPress 2, everything else is on 1.5 (bad, I know, go away).</p>
+<p>I added the <code>index.php/</code> to the action on the ballardcornerspark search though, and it all worked.<br />
+<code></p>
+<form id="searchform" method="get" action="index.php/<?php echo $_SERVER['PHP_SELF']; ?>"><br />
+</form>
+<p></code></p>
+<p>Sweetness, check that box, next bug, it&#8217;s all non-profit time.</p>
+<p>Have you <b>bought</b> anything from Amazon via our <a href="http://ballardcornerspark.org/shop">site</a> yet?</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Thanksgiving Returns</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/11/12/thanksgiving-returns/</link>
+				<pubDate>Mon, 13 Nov 2006 04:04:45 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[I'm a stranger here]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/11/12/thanksgiving-returns/</guid>
+				<description><![CDATA[Just as it does every year in the US, Thanksgiving starts to approach as the nights draw in. As discussed last year, I don&#8217;t really understand it &#8211; but with the help of friends and family, I&#8217;m starting to get it. So, as in years previous, I&#8217;m helping Karima do her &#8220;Thanksgiving Lists&#8221;. Unfortunately I &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/11/12/thanksgiving-returns/" class="more-link">Continue reading<span class="screen-reader-text"> "Thanksgiving Returns"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Just as it does every year in the US, Thanksgiving starts to approach as the nights draw in.  As <a href="http://machaggis.net/bluefacedpixie/index.php/2005/11/20/giving-thanks/">discussed last year</a>, I don&#8217;t really understand it &#8211; but with the help of <a href="http://machaggis.net/bluefacedpixie/index.php/2005/12/07/the-parable-of-paul-and-dick/">friends</a> and family, I&#8217;m starting to get it.</p>
+<p>So, as in years previous, I&#8217;m helping Karima do her &#8220;Thanksgiving Lists&#8221;.   Unfortunately I had to close down the yabb bulletin boards due to spam attacks, so this year we have moved to blog-world.  Yes, yet another wordpress blog administered by myself.   This one is a full member of the <a href="http://machaggis.net">machaggis.net</a> family, alongside <a href="http://planetdanika.com">planetdanika</a>, <a href="http://bluefacedpixie.com">bluefacedpixie</a> and <a href="http://machaggis.net/premodernist">premodernist</a> and lives at <a href="http://machaggis.net/thanksgiving"><b>machaggis.net/thanksgiving</b></a>.</p>
+<p>So give yourself a break, head over and read some gratitude and then sign-up and share.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>It&#8217;s after midnight&#8230;</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/11/09/its-after-midnight/</link>
+				<pubDate>Thu, 09 Nov 2006 08:36:32 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Ballard Corners Park]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=682</guid>
+				<description><![CDATA[&#8230;once more. For the last couple of weeks I&#8217;ve been making myself unpopular with Danika by geeking out over some volunteer work. Yes, I ended up being the webmonkey for Ballard Corners Park. The co-chair had done a stellar job on maintaining a good static site with a basic solid design with FrontPage. But times &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/11/09/its-after-midnight/" class="more-link">Continue reading<span class="screen-reader-text"> "It&#8217;s after midnight&#8230;"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>&#8230;once more.</p>
+<p>For the last couple of weeks I&#8217;ve been making myself unpopular with Danika by geeking out over some volunteer work.</p>
+<p>Yes, I ended up being the webmonkey for Ballard Corners Park.  The co-chair had done a stellar job on maintaining a good static site with a basic solid design with FrontPage.  But times moved on and he wanted to get more dynamic so that he didn&#8217;t have to send out so many emails to his emailing lists and also to allow others to contribute.  He wanted a blog.  I obliged, but ended up <a href="http://wordpress.org">WordPress</a>ing the whole site into WordPress as a CMS and reverse-engineering his FrontPage WYSIWYG into a theme.  And then backing off on a lot of the design because it looked *too much* like the old site, and we wanted something that looked a little newer and <em>blog</em>.</p>
+<p>I may have a few geeky stories to tell if I care &#8211; about finding a new email encoder that WordPress could re-post without screwing up, about how using the WordPress 2.0 WYSIWYG editor screws that up *and* seems to blow away <code></p>
+<p></code> and <code><br /></code> tags.   But it&#8217;s too late for objective descriptions (and last Monday these descriptions would be have been anything <i>but</i> objective). So&#8230;</p>
+<p>&#8230;please go play at the <a href="http://ballardcornerspark.org/ballardcornerspark">BallardCornersPark</a> to be, it&#8217;s going live this weekend so if you see anything broken, want to vomit, or would like to improve it significantly &#8211; use the comments on this post (I&#8217;m expecting none due to readership levels, so don&#8217;t feel bad).  The original site (for now) is at <a href="http://ballardcornerspark.org">http://ballardcornerspark.org</a> &#8211; for reference.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Goodbye 3 hours</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/09/19/goodbye-3-hours/</link>
+				<pubDate>Wed, 20 Sep 2006 06:32:55 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=576</guid>
+				<description><![CDATA[Messing about with <a href="http://wordpress.org">wordpress</a> archives.]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;ve made a couple of very minor updates to <a href="http://bluefacedpixie.com">bluefacedpixie</a>. It was a lesson, as always, in humility and a sharp reminder that doing simple geek-things is often harder than expected.  More after the (more)<span id="more-576"></span>.</p>
+<p>For a while I was wanting to display mostly chronological entries in  my blog by title only.   Originally I thought it would be a good little &#8220;hack my aging WordPress 1.5.x installation&#8221; exercise to let me putter about with <a href="http://php.net">PHP</a>.  So as Danika napped tonight I started into it.  Almost immediately I was impressed though that <a href="http://wordpress.org">WordPress</a> has thought of all this before and a combination of <code>get_archives("type=monthly')</code> in the <code>sidebar.php</code> and the addition of an <code>archive.php</code> to customize the <code>index.php</code> display (so I could then add in title only display rather than post display) would do the trick.  So I decided to do it the &#8220;wordpress way&#8221;.</p>
+<p>And it&#8217;s mostly done now.  There&#8217;s a new section in the sidebar for <strong>Ancient History</strong> that will take you to a simpler title listing, and as a &#8220;feature&#8221; this also works for categories due to the WordPress template code.  It actually looks good but isn&#8217;t what I was originally expecting (I thought the <code>category-X.php</code> files overrode that display).</p>
+<p>I also tidied up a few things in the sidebar and tried to the move the verbose &#8220;you are now browsing&#8230;&#8221; string to the main page before leaving it in the sidebar in a new position.</p>
+<p>It took much longer than expected, but I got there &#8211; one hour turned into three (with a little blog at the end of course).</p>
+<p>The most significant hoop:</p>
+<p>I wanted to display as many titles as I could per page (limited to 100, just in case&#8230;) and this required me to add this code before <a href="http://codex.wordpress.org/The_Loop"><strong>The Loop</strong></a>:</p>
+<p><code>< ?php $query_string = "posts_per_page=100&#038;" . $query_string; 
+query_posts($query_string);
+?></code></p>
+<p>So I&#8217;m basically hacking into the global variable (<code>$query_string</code>) that was used to set up the initial query, adding my restriction and rerunning it (<code>query_posts()</code>) before the loop.  Not efficient (as <code>query_posts()</code> fires twice, once in WordPress, again in the template) but necessary to override the first question.  It doesn&#8217;t work quite right though as&#8230;.</p>
+<p>The <code>show_page</code> variable isn&#8217;t processed correctly in the &#8220;Next Page&#8221; logic &#8211; it appears a &#8220;Next Page&#8221; will always appear and (if there are less than 100 posts) move onto a page with no results.   Bad, but liveable.</p>
+<p>A final bugette seems to be the <code>get_excerpt()</code> call, initially I wanted to use this with <code>title=</code> on the blog titles to get a popover effect, however the <code>get_excerpt()</code> doesn&#8217;t strip HTML, giving an ugly display (it is meant to) so I skipped it in this iteration.  </p>
+<p>All in all &#8211; WordPress surprises once more, but not quite as easily as I&#8217;d like, but I&#8217;d be faster with more familiarity.</p>
+<p><em>Epilogue: As my much hacked template is based on the GPL&#8217;d <a href="http://ckunte.com/archives/2005/03/07/plain-vanilla-1/">Plain Vanilla</a>, contact me if you want a complete copy of the theme.</em></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Category Cloud and Other Tweaks</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/08/14/category-cloud-and-other-tweaks/</link>
+				<pubDate>Tue, 15 Aug 2006 06:12:51 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[This Website]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/08/14/category-cloud-and-other-tweaks/</guid>
+				<description><![CDATA[In a brief attempt at being Web 2.0, I&#8217;ve removed the category listing from the sidebar and added a &#8220;category cloud&#8221; lower in the sidebar, and at the bottom of the main page. One of them will go shortly. The wordpress plugin came from hitormiss, which I got to from a random search that hit &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/08/14/category-cloud-and-other-tweaks/" class="more-link">Continue reading<span class="screen-reader-text"> "Category Cloud and Other Tweaks"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>In a brief attempt at being <a href="http://en.wikipedia.org/wiki/Web_2.0">Web 2.0</a>, I&#8217;ve removed the category listing from the sidebar and added a &#8220;category cloud&#8221; lower in the sidebar, and at the bottom of the main page.  One of them will go shortly.</p>
+<p>The wordpress plugin came from <a href="http://hitormiss.org/projects/weighted-categories">hitormiss</a>, which I got to from a random search that hit this <a href="http://www.cebidae.com/2006/07/13/category-cloud/">blog</a> &#8211; and I&#8217;m glad because he included the little <code>id="categories"</code> part I had missed.</p>
+<p>If you don&#8217;t know what a category cloud is this <a href="http://en.wikipedia.org/wiki/Tag_cloud">wikipedia</a> definition may help (or go visit <a href="http://www.flickr.com/photos/machaggis/tags/">flickr</a>).</p>
+<p>So far it really only serves to note that I post a lot of _a photo per day_.  I also took the opportunity to fiddle with a couple of minor things I&#8217;ve had comments about &#8211; the placing of the date (who cares) and finding the comment link (important!).   And I did manage to fix an extremely minor and annoying style bug &#8211; that no-one probably ever noticed &#8211; at the same time, so you can sleep easy at night. </p>
+<p>Of course this all took way too long, as I don&#8217;t really know <a href="http://en.wikipedia.org/wiki/PHP">PHP</a> or <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> and pretty much learn as I go.</p>
+<p>_Update: You can&#8217;t see the changes on an RSS feed, you have to head to <a href="http://bluefacedpixie.com">bluefacedpixie</a> directly._</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Typo</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/05/09/typo/</link>
+				<pubDate>Wed, 10 May 2006 03:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Blog This]]></category>
+		<category><![CDATA[This Website]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/05/09/typo/</guid>
+				<description><![CDATA[Ran across a few blogs that were powered by typo &#8211; an alternative to WordPress, but Ruby on Rails &#8211; so it must be cooler. I&#8217;m pretty happy with WordPress, and will stick for now, although I haven&#8217;t really done the whole v2 thing.]]></description>
+								<content:encoded><![CDATA[<p>Ran across a few blogs that were powered by <a href="http://www.typosphere.org/trac/wiki/WikiStart">typo</a> &#8211; an alternative to WordPress, but <a href="http://www.rubyonrails.org/">Ruby on Rails</a> &#8211; so it <i>must</i> be cooler.</p>
+<p>I&#8217;m pretty happy with <a href="http://www.wordpress.org">WordPress</a>, and will stick for now, although I haven&#8217;t really done the whole v2 thing. </p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

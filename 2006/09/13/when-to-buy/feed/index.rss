@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: When to buy	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2006/09/13/when-to-buy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2006/09/13/when-to-buy/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 14 Sep 2006 15:15:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: bfp				</title>
+				<link>https://machaggis.net/bluefacedpixie/2006/09/13/when-to-buy/#comment-83</link>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2006 15:15:12 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=559#comment-83</guid>
+					<description><![CDATA[it changes yearly but basically Feb, July, August (with an iPod annoucement in Sept-Nov, as per last Tuesday).  apple.com is the best way to schedule.]]></description>
+		<content:encoded><![CDATA[<p>it changes yearly but basically Feb, July, August (with an iPod annoucement in Sept-Nov, as per last Tuesday).  apple.com is the best way to schedule.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: karima				</title>
+				<link>https://machaggis.net/bluefacedpixie/2006/09/13/when-to-buy/#comment-82</link>
+		<dc:creator><![CDATA[karima]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2006 10:20:43 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=559#comment-82</guid>
+					<description><![CDATA[when is WWDC. Apple Expo, Mac World?]]></description>
+		<content:encoded><![CDATA[<p>when is WWDC. Apple Expo, Mac World?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sometimes any answer will do	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2007/03/30/sometimes-any-answer-will-do/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2007/03/30/sometimes-any-answer-will-do/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 03 Apr 2007 12:27:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: karima				</title>
+				<link>https://machaggis.net/bluefacedpixie/2007/03/30/sometimes-any-answer-will-do/#comment-115</link>
+		<dc:creator><![CDATA[karima]]></dc:creator>
+		<pubDate>Tue, 03 Apr 2007 12:27:31 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2007/03/30/sometimes-any-answer-will-do/#comment-115</guid>
+					<description><![CDATA[She&#039;s so FAT!]]></description>
+		<content:encoded><![CDATA[<p>She&#8217;s so FAT!</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

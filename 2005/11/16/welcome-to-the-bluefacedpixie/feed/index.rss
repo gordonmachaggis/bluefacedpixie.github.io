@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Welcome to the bluefacedpixie	</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/2005/11/16/welcome-to-the-bluefacedpixie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie/2005/11/16/welcome-to-the-bluefacedpixie/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 05 Dec 2005 05:57:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				By: bluefacedpixie &#187; Viral				</title>
+				<link>https://machaggis.net/bluefacedpixie/2005/11/16/welcome-to-the-bluefacedpixie/#comment-3</link>
+		<dc:creator><![CDATA[bluefacedpixie &#187; Viral]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2005 05:57:59 +0000</pubDate>
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=4#comment-3</guid>
+					<description><![CDATA[[...] But making planetdanika was fun, and I got jealous of her trail-running  and Tamarind Tree posts so much I wanted to write my own. So bluefacedpixie was the solution. And Wordpress was pretty easy after all. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] But making planetdanika was fun, and I got jealous of her trail-running  and Tamarind Tree posts so much I wanted to write my own. So bluefacedpixie was the solution. And WordPress was pretty easy after all. [&#8230;]</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

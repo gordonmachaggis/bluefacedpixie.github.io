@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Search Results for &#8220;redline&#8221; &#8211; bluefacedpixie</title>
+	<atom:link href="https://machaggis.net/bluefacedpixie/search/redline/feed/rss2/" rel="self" type="application/rss+xml" />
+	<link>https://machaggis.net/bluefacedpixie</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 08 Mar 2009 07:22:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>2008 Activity Summary</title>
+		<link>https://machaggis.net/bluefacedpixie/2009/03/07/2008-activity-summary/</link>
+				<pubDate>Sun, 08 Mar 2009 07:22:24 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Activity log]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=1193</guid>
+				<description><![CDATA[A very belated, and somewhat truncated, summary of my 2008 sporting activity courtesy of some spreadsheet crunching this weekend. In general, up from 2007, but as 1/4 of 2007 was untracked/Lucified I don&#8217;t think it&#8217;s that much of a difference. My days of doing nothing are down to about 131, which I am happy about, &#8230; <a href="https://machaggis.net/bluefacedpixie/2009/03/07/2008-activity-summary/" class="more-link">Continue reading<span class="screen-reader-text"> "2008 Activity Summary"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>A very belated, and somewhat truncated, summary of my 2008 sporting activity courtesy of some spreadsheet crunching this weekend.</p>
+<p>In general, up from 2007, but as 1/4 of 2007 was untracked/Lucified I don&#8217;t think it&#8217;s that much of a difference.</p>
+<p>My days of doing nothing are down to about 131, which I am happy about, although my mountain biking continues to suffer &#8211; work commuting and running count for most activities (and as I trained for and ran an ultra-marathon relay with Ragnar in 2008 the running part isn&#8217;t surprising).</p>
+<p>The daily bike to work is quite astounding, and in terms of counts the round-trip counts as *1* (so the counts could be higher).</p>
+<p>I do not think this year will be as impressive &#8211; we&#8217;re already car-shopping.</p>
+<p></p>
+<p class="cmeta" border-left=10px>
+<table id="activities" bgcolor="#DDDDDD" align=center width=90%>
+<tr align=center>
+<th>&nbsp;</th>
+<th>2008 Miles</th>
+<th>2008 Count</th>
+<th bgcolor="#AAAAAA">2007 Miles</th>
+<th bgcolor="#AAAAAA">2007 Count</th>
+<th>2006 Miles</th>
+<th>2006 Count</th>
+<th bgcolor="#AAAAAA">2005 Miles</th>
+<th bgcolor="#AAAAAA">2005 Count</th>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Work Bike</th>
+<td><font color=green>1311</font></td>
+<td><font color=green>153</font></td>
+<td>976</td>
+<td>122</td>
+<td>1498</td>
+<td>124</td>
+<td>2014</td>
+<td>134</td>
+</tr>
+<tr align=center>
+<th>Other Bike</th>
+<td><font color=green>53</font></td>
+<td><font color=green>2</font></td>
+<td>&#8211;</td>
+<td>0</td>
+<td>&#8211;</td>
+<td>4</td>
+<td>239</td>
+<td>21</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Mtn Bike</th>
+<td>&#8211;</td>
+<td><font color=red>3</font></td>
+<td>&#8211;</td>
+<td>5</td>
+<td>77</td>
+<td>12</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Run</th>
+<td><font color=green>435</font></td>
+<td><font color=green>81</font></td>
+<td>311</td>
+<td>54</td>
+<td>163</td>
+<td>41</td>
+<td>230</td>
+<td>42</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Trail Run</th>
+<td><font color=green>15</font></td>
+<td><font color=green>2</font></td>
+<td>&#8211;</td>
+<td>0</td>
+<td>&#8211;</td>
+<td>5</td>
+<td>51</td>
+<td>6</td>
+</tr>
+<tr align=center>
+<th>Hike</th>
+<td>&#8211;</td>
+<td><font color=red>1</font></td>
+<td>&#8211;</td>
+<td>2</td>
+<td>&#8211;</td>
+<td>12</td>
+<td>65</td>
+<td>7</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Snow</th>
+<td>&#8211;</td>
+<td><font color=green>3</font></td>
+<td>&#8211;</td>
+<td><font color=red>1</font></td>
+<td>0</td>
+<td>12</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Other</th>
+<td>&#8211;</td>
+<td><font color=green>2</font></td>
+<td>&#8211;</td>
+<td>1</td>
+<td>3</td>
+<td>9</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Nada</th>
+<td>&#8211;</td>
+<td><font color=green>131</font></td>
+<td>&#8211;</td>
+<td>208</td>
+<td>0</td>
+<td>153</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Total<br />(not nada)</th>
+<th><font color=green>1814</font></th>
+<th><font color=green>247</font></th>
+<th bgcolor="#AAAAAA" >1287</th>
+<th bgcolor="#AAAAAA" >184</th>
+<th>1751</th>
+<th>219</th>
+<th bgcolor="#AAAAAA">2601</th>
+<th bgcolor="#AAAAAA">218</th>
+</tr>
+</table>
+<p>Shoe miles:</p>
+<p class="cmeta" border-left=10px>
+<table id="activities" bgcolor="#DDDDDD" align=center width=90%>
+<tr align=center>
+<th>Shoe</th>
+<th bgcolor="#AAAAAA">2008 Miles</th>
+<th>Number Runs</th>
+<th bgcolor="#AAAAAA">Average Miles</th>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Blue Brooks</th>
+<td>116</td>
+<td>23</td>
+<td>5.04</td>
+</tr>
+<tr align=center>
+<th>Cascadia (trail)</th>
+<td>81</td>
+<td>13</td>
+<td>6.23</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Red Brooks (deceased)</th>
+<td>22</td>
+<td>5</td>
+<td>4.45</td>
+</tr>
+<tr align=center>
+<th>Yellow Brooks</th>
+<td>226</td>
+<td>42</td>
+<td>5.39</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Adrenaline Trail (semi-casual)</th>
+<td>24</td>
+<td>4</td>
+<td>6.09</td>
+</tr>
+</table>
+<p>And bike commuting:</p>
+<p class="cmeta" border-left=10px>
+<table id="activities" bgcolor="#DDDDDD" align=center width=90%>
+<tr align=center>
+<th>Bike</th>
+<th bgcolor="#AAAAAA">2008 Rides</th>
+<th>2007 Rides</th>
+<th bgcolor="#AAAAAA">2006 Rides (*)</th>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Volpe</th>
+<td>86</td>
+<td>62</td>
+<td>32</td>
+</tr>
+<tr align=center>
+<th>Redlien 925</th>
+<td>69</td>
+<td>57</td>
+<td>48</td>
+</tr>
+</table>
+<p>(*) only started tracking bikes midway through 2006 after Redline 925 was purchased so the mighty wet winter rides on the Volpe aren&#8217;t there &#8211; I think the trend is set that the 925 is the <i>summer</i> bike.</p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>2007 Activity Zeitgeist</title>
+		<link>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/</link>
+				<comments>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/#comments</comments>
+				<pubDate>Tue, 08 Jan 2008 05:19:12 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Activity log]]></category>
+		<category><![CDATA[Outside]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=994</guid>
+				<description><![CDATA[Well its that time again where I&#8217;ve frittered away a couple of hours analyzing my activities log from last year. A change in format of the Excel spreadsheet was not that useful, and it&#8217;s actually taken longer to pull together the raw numbers than last year; and then it got a little too interesting when &#8230; <a href="https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/" class="more-link">Continue reading<span class="screen-reader-text"> "2007 Activity Zeitgeist"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Well its that time again where I&#8217;ve frittered away a couple of hours analyzing my activities log from last year.</p>
+<p>A change in format of the Excel spreadsheet was not that useful, and it&#8217;s actually taken longer to pull together the raw numbers than last year; and then it got a little too interesting when I could go all anal over comparing the numbers to <a href="http://machaggis.net/bluefacedpixie/index.php/2007/01/07/2006-activity-zeitgeist/">2006</a> and <a href="http://machaggis.net/bluefacedpixie/index.php/2005/12/30/what-did-you-do-in-2005/">2005</a>.</p>
+<p>In preparation &#8211; this year sees a significant decrease in activities overall.  My spreadsheet has <i>no entries</i> for 92 days from Lucy&#8217;s birth to Danika&#8217;s return to work (and I need to take the bike).  Whether this was form-filling laziness or physical laziness is a mea culpa now.  It is now fact.  The only two increases are in running and the wonderful <i>nada</i>.</p>
+<p>So here are the pies:</p>
+<div class="imgcenter"><img src="/planetdanika/uploads/2007activitiespie.png" width="400"alt="" /></div>
+<p>Because I run and bike on the same day, the real story (as told by the calendar) for nada is more shocking:</p>
+<div class="imgcenter"><img src="/planetdanika/uploads/2007activitiesbydaypie.png" width="400"alt="" /></div>
+<p>And the numbers, they do not lie (red is for less than 2006, green is for more):</p>
+<p class="cmeta" border-left=10px>
+<table id="activities" bgcolor="#DDDDDD" align=center width=90%>
+<tr align=center>
+<th>&nbsp;</th>
+<th bgcolor="#AAAAAA">2007 Miles</th>
+<th bgcolor="#AAAAAA">2007 Count</th>
+<th>2006 Miles</th>
+<th>2006 Count</th>
+<th bgcolor="#AAAAAA">2005 Miles</th>
+<th bgcolor="#AAAAAA">2005 Count</th>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Work Bike</th>
+<td><font color=red>976</font></td>
+<td><font color=red>122</font></td>
+<td>1498</td>
+<td>124</td>
+<td>2014</td>
+<td>134</td>
+</tr>
+<tr align=center>
+<th>Other Bike</th>
+<td>&#8211;</td>
+<td><font color=red>0</font></td>
+<td>&#8211;</td>
+<td>4</td>
+<td>239</td>
+<td>21</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Mtn Bike</th>
+<td>&#8211;</td>
+<td><font color=red>5</font></td>
+<td>77</td>
+<td>12</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Run</th>
+<td><font color=green>311</font></td>
+<td><font color=green>54</font></td>
+<td>163</td>
+<td>41</td>
+<td>230</td>
+<td>42</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Trail Run</th>
+<td>&#8211;</td>
+<td><font color=red>0</font></td>
+<td>&#8211;</td>
+<td>5</td>
+<td>51</td>
+<td>6</td>
+</tr>
+<tr align=center>
+<th>Hike</th>
+<td>&#8211;</td>
+<td><font color=red>2</font></td>
+<td>&#8211;</td>
+<td>12</td>
+<td>65</td>
+<td>7</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Snow</th>
+<td>&#8211;</td>
+<td><font color=red>1</font></td>
+<td>0</td>
+<td>12</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Other</th>
+<td>&#8211;</td>
+<td><font color=red>1</font></td>
+<td>3</td>
+<td>9</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr align=center bgcolor=lightblue>
+<th>Nada</th>
+<td>&#8211;</td>
+<td><font color=green>208</font></td>
+<td>0</td>
+<td>153</td>
+<td>&#8211;</td>
+<td>&#8211;</td>
+</tr>
+<tr align=center>
+<th>Total<br />(not nada)</th>
+<th bgcolor="#AAAAAA" ><font color=red>1287</font></th>
+<th bgcolor="#AAAAAA" ><font color=red>184</font></th>
+<th>1751</th>
+<th>219</th>
+<th bgcolor="#AAAAAA">2601</th>
+<th bgcolor="#AAAAAA">218</th>
+</tr>
+</table>
+<p>Some points of embarrassment:</p>
+<ul>
+<li>The <b>1</b> snowboarding was actually on the 30th of December this year i.e. last week</li>
+<li>Mountain biking took a beating and there were only <b>4</b> Tiger rides this year and no Epics</li>
+<li>The shorter work bike ride is really taking it&#8217;s toll on the mileage &#8211; although the ride count was barely down I&#8217;m now less than half the 2005 mileage on my commute (in 2005 Other Bike was mountain biking and non-work biking combined)</li>
+<li>Green for 208 nada&#8217;s is really misleading&#8230;.</li>
+</ul>
+<p>And for the final tidbit &#8211; the bike stats:  the Volpe had 62 commutes to the 925&#8217;s 57 (with the Trek Fuel mountain bike picking up 3 emergency rides), which says more about how bad the weather is in Seattle as this year than true bike preference &#8211; I&#8217;ve only had the Volpe set up with fenders all year.  But this year the Volpe wins, so it&#8217;s a year apiece for the Volpe/925 face-off.  (Last year: after buying the 925 the ride split was  48 vs. 32 for the Redline.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://machaggis.net/bluefacedpixie/2008/01/07/2007-activity-zeitgeist/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>2006 Activity Zeitgeist</title>
+		<link>https://machaggis.net/bluefacedpixie/2007/01/07/2006-activity-zeitgeist/</link>
+				<comments>https://machaggis.net/bluefacedpixie/2007/01/07/2006-activity-zeitgeist/#comments</comments>
+				<pubDate>Sun, 07 Jan 2007 20:25:09 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Activity log]]></category>
+		<category><![CDATA[Outside]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=792</guid>
+				<description><![CDATA[Similar to last year&#8217;s What did you do in 2005? here is my compilation from Excel of my activities in 2006. Many of you will be glad to see that I did nothing on 153 days &#8211; almost half the year! I did approximately 372 activities, which means I double-dipped on only 7 days, which &#8230; <a href="https://machaggis.net/bluefacedpixie/2007/01/07/2006-activity-zeitgeist/" class="more-link">Continue reading<span class="screen-reader-text"> "2006 Activity Zeitgeist"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Similar to last year&#8217;s <a href="http://machaggis.net/bluefacedpixie/index.php/2005/12/30/what-did-you-do-in-2005/">What did you do in 2005?</a> here is my compilation from Excel of my activities in 2006.</p>
+<p>Many of you will be glad to see that I did nothing on <b>153</b> days &#8211; almost half the year!   I did approximately <b>372</b> activities, which means I double-dipped on only 7 days, which is pretty low (i.e. I basically never did a bike to work *and* something else).   I&#8217;ve made a funky little pie chart showing the overview:</p>
+<div class="imgcenter"><img src="/planetdanika/uploads/2006activitiespie.png" width="400"alt="" /></div>
+<p>I would like to make a claim that I didn&#8217;t log a long summer and autumn of doing regular evening &#8220;pregnancy walks&#8221; with Danika, but really, they didn&#8217;t count anyway.</p>
+<p>Side notes: I only went to the gym once (for <a href="http://machaggis.net/bluefacedpixie/index.php/2006/10/08/pointy-shoe-hits-behind-aka-time-for-some-ass-kicking/">ski conditioning</a>), our hiking was mostly compressed into August (getting ready for vacation) and then September (the vacation), 11 out of my 12 mountain bike rides were at Tiger, and for the first time I snowboarded the same amount as a I mountain biked.  Justifying not buying  a new mountain bike but the new on-sale snowboarding kit quite nicely.  Apart from gym and basketball all of my activities were <i>outside</i> which I like.</p>
+<p>In terms of the new bike (<a href="http://machaggis.net/bluefacedpixie/index.php/2006/05/09/8th-may-06-singlespeed-goodness/">Redline 925</a>) I rode it 48 times compared to the Volpe&#8217;s 76, but 44 of the Volpe&#8217;s rides had been <i>before</i> I had the 925.  So since purchase the rides have been 48 vs. 32.  Redline 925 wins.</p>
+<p>Finally, moving job seriously reduced my work miles on the bike: from 16 to 9 a day, and I really feel the lack of a critical mass in the shorter commute.</p>
+<p class="cmeta" border-left=10px>
+<table id="activities" align=center width=90%>
+<tr align=center>
+<th width=20%>&nbsp;</th>
+<th width=20%>2006 Miles</th>
+<th width=20%>2006 Count</th>
+<th width=20%>2005 Miles</th>
+<th width=20%>2005 Count</th>
+</tr>
+<tr align=center>
+<th>Bike</th>
+<td>(no data)</td>
+<td>4</td>
+<td>239</td>
+<td>21</td>
+</tr>
+<tr align=center>
+<th>Work Bike</th>
+<td>1498</td>
+<td>124</td>
+<td>2014</td>
+<td>134</td>
+</tr>
+<tr align=center>
+<th>Hike</th>
+<td>(no data)</td>
+<td>12</td>
+<td>65</td>
+<td>7</td>
+</tr>
+<tr align=center>
+<th>Run</th>
+<td>163</td>
+<td>41</td>
+<td>230</td>
+<td>42</td>
+</tr>
+<tr align=center>
+<th>Trail Run</th>
+<td>(bad data)</td>
+<td>5</td>
+<td>51</td>
+<td>6</td>
+</tr>
+<tr align=center>
+<th>Nada</th>
+<td>0</td>
+<td>153</td>
+<td>(no data)</td>
+<td>(no data)</td>
+</tr>
+<tr align=center>
+<th>Mtn Bike</th>
+<td>77</td>
+<td>12</td>
+<td>(no data)</td>
+<td>(no data)</td>
+</tr>
+<tr align=center>
+<th>Snowboard</th>
+<td>0</td>
+<td>12</td>
+<td>(no data)</td>
+<td>(no data)</td>
+</tr>
+<tr align=center>
+<th>Other</th>
+<td>3</td>
+<td>9</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr align=center>
+<th>Total</th>
+<th>1751</th>
+<th>372</th>
+<th>2601</th>
+<th>218</th>
+</tr>
+</table>
+<p>Looking at the comparison, the only big difference this year is that I split &#8220;bike&#8221; into non-work road biking (4) and mountain biking (12). The bike (21) from last year combined these (although was mostly mountain biking).</p>
+<p><i>Updated 28th Dec 07: fixed the titles to 2006/2005 instead of 2007/2006</i></p>
+]]></content:encoded>
+							<wfw:commentRss>https://machaggis.net/bluefacedpixie/2007/01/07/2006-activity-zeitgeist/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>21st Dec 06: Shimano Brake</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/12/22/21st-dec-06-shimano-brake/</link>
+				<pubDate>Sat, 23 Dec 2006 06:50:01 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[A Photo Per Day]]></category>
+		<category><![CDATA[Cycling]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/12/22/21st-dec-06-shimano-brake/</guid>
+				<description><![CDATA[21st Dec 06: Shimano Brake, originally uploaded by machaggis. I have a few shots of the Redline, but none of the Bianci really. Which is a shame as it carried me for a year. And as the 9-2-5 is hanging up with a flat I haven&#8217;t got to yet, the Volpe is doing the December &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/12/22/21st-dec-06-shimano-brake/" class="more-link">Continue reading<span class="screen-reader-text"> "21st Dec 06: Shimano Brake"</span></a>]]></description>
+								<content:encoded><![CDATA[<div class="imgcenter">
+	<a href="http://www.flickr.com/photos/machaggis/330672539/" title="Linked from flickr"><img height=400 src="http://farm1.static.flickr.com/147/330672539_7afe4c2970.jpg" alt="21st Dec 06: Shimano Brake" /></a></p>
+<p align=center><a href="http://www.flickr.com/photos/machaggis/330672539/" title="Link to photo on flickr">21st Dec 06: Shimano Brake</a>, originally uploaded by <a href="http://www.flickr.com/people/machaggis/" title="Link to photographer on flickr">machaggis</a>.</p>
+<p>I have a few shots of the Redline, but none of the Bianci really.  Which is a shame as it carried me for a year.   And as the 9-2-5 is hanging up with a flat I haven&#8217;t got to yet, the Volpe is doing the December biking duty.<br />
+{D50, as taken, handheld, incandescent}</p>
+</div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>The Rain is Here&#8230;</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/</link>
+				<comments>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/#comments</comments>
+				<pubDate>Wed, 08 Nov 2006 06:24:41 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Activity log]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/11/07/the-rain-is-here/</guid>
+				<description><![CDATA[And is starting to hurt the activities. I may have the edit this later, as I&#8217;m not 100% sure I biked on Friday (and is why I should post this sooner). Tuesday also saw the welcome return of the Redline 9-2-5 over the Volpe for the bike commute. The fenders on the Redline do make &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/" class="more-link">Continue reading<span class="screen-reader-text"> "The Rain is Here&#8230;"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>And is starting to hurt the activities.  I may have the edit this later, as I&#8217;m not 100% sure I biked on Friday (and is why I should post this sooner).</p>
+<p>Tuesday also saw the welcome return of the Redline 9-2-5 over the Volpe for the bike commute.  The fenders on the Redline do make it look less cool, but the single speed is more exercise my for lardy self.</p>
+<p>Mon (30th Oct): bike to/from work<br />
+Tue: bike to/from work (the return of the Redline)<br />
+Wed (1st Nov): bike to/from work<br />
+Thu: played basketball at work for 1hr 15mins<br />
+Fri: bike to/from work<br />
+Sat: nada (wet!)<br />
+Sun: nada (wet!)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://machaggis.net/bluefacedpixie/2006/11/07/the-rain-is-here/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Hilly Commute</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/10/02/hilly-commute/</link>
+				<comments>https://machaggis.net/bluefacedpixie/2006/10/02/hilly-commute/#comments</comments>
+				<pubDate>Mon, 02 Oct 2006 15:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Activity log]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/?p=599</guid>
+				<description><![CDATA[Another good week of bike commuting, and due to the gorgeous Indian Summer(*) we&#8217;ve been having in Seattle I managed to ride my Redline every day. However I have learned that going south on Dexter Avenue on a singlespeed (elevation gain about 100 feet) really feels like a hill now! So although my commute remains &#8230; <a href="https://machaggis.net/bluefacedpixie/2006/10/02/hilly-commute/" class="more-link">Continue reading<span class="screen-reader-text"> "Hilly Commute"</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Another good week of bike commuting, and due to the gorgeous Indian Summer(*) we&#8217;ve been having in Seattle I managed to ride my <a href="http://machaggis.net/bluefacedpixie/index.php?s=redline">Redline</a> every day.   However I have learned that going south on Dexter Avenue on a singlespeed (elevation gain about 100 feet) really feels like a hill now!   So although my commute remains shorter I have the satisfaction of thinking it&#8217;s a marginal workout at least.</p>
+<p>Mon (25th Sep): bike to/from work<br />
+Tue: bike to/from work<br />
+Wed: bike to work (went to the M&#8217;s that night)<br />
+Thu: bike to/from work<br />
+Fri: bike to/from work<br />
+Sat: went for a long walk with Danika in Cougar Wilderness<br />
+Sun: rode <a href="http://machaggis.net/bluefacedpixie/index.php/2006/10/01/ride-tiger-tiger-tiger/">Tiger</a></p>
+<p>* Here&#8217;s the <a href="http://en.wikipedia.org/wiki/Indian_summer">wikipedia link</a> to Indian Summer as Danika didn&#8217;t recognize the term &#8211; although I guess it&#8217;s really meant to be the end of October rather than September.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://machaggis.net/bluefacedpixie/2006/10/02/hilly-commute/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>17th Aug 06: Redline 9-2-5</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/08/20/17th-aug-06-redline-9-2-5/</link>
+				<pubDate>Mon, 21 Aug 2006 04:13:48 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[A Photo Per Day]]></category>
+		<category><![CDATA[Cycling]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/08/20/17th-aug-06-redline-9-2-5/</guid>
+				<description><![CDATA[17th Aug 06: Redline 9-2-5, originally uploaded by machaggis. The Redline is doing fine &#8211; my main commuter bike these sunny days. {X50, as taken}]]></description>
+								<content:encoded><![CDATA[<div class="imgcenter">
+	<a href="http://www.flickr.com/photos/machaggis/220684111/" title="Photo Per Day Linked from flickr"><img width=400 src="http://static.flickr.com/85/220684111_1e103d80ab.jpg" alt="17th Aug 06: Redline 9-2-5" /></a></p>
+<p align=center><a href="http://www.flickr.com/photos/machaggis/220684111/" title="Link to photo on flickr">17th Aug 06: Redline 9-2-5</a>, originally uploaded by <a href="http://www.flickr.com/people/machaggis/" title="Link to photographer on flickr">machaggis</a>.</p>
+<p>The Redline is doing fine &#8211; my main commuter bike these sunny days.<br />
+{X50, as taken}</p>
+</div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>8th May 06: Singlespeed Goodness</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/05/09/8th-may-06-singlespeed-goodness/</link>
+				<pubDate>Wed, 10 May 2006 03:25:06 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[A Photo Per Day]]></category>
+		<category><![CDATA[Cycling]]></category>
+		<category><![CDATA[Gear]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/05/09/8th-may-06-singlespeed-goodness/</guid>
+				<description><![CDATA[8th May 06: Singlespeed Goodness, originally uploaded by machaggis. Ok, I&#8217;m a bike geek. This is a freewheel hub on a Redline 9-2-5. I believe these type of photographs are called bikeporn. I also posted this. {D50, as taken, incadescent, handheld}]]></description>
+								<content:encoded><![CDATA[<div class="imgcenter">
+	<a href="http://www.flickr.com/photos/machaggis/143795542/" title="Photo Per Day Linked from flickr"><img height=400 src="http://static.flickr.com/47/143795542_87e5a1cdb6.jpg" alt="8th May 06: Singlespeed Goodness" /></a></p>
+<p align=center><a href="http://www.flickr.com/photos/machaggis/143795542/" title="Link to photo on flickr">8th May 06: Singlespeed Goodness</a>, originally uploaded by <a href="http://www.flickr.com/people/machaggis/" title="Link to photographer on flickr">machaggis</a>.</p>
+<p>Ok, I&#8217;m a bike geek.  This is a freewheel hub on a <a href="http://www.redlinebicycles.com/adultbikes/925.html">Redline  9-2-5</a>.<br />
+I believe these type of photographs are called <a href="http://flickr.com/photos/tags/bikeporn/">bikeporn</a>.  I also posted <a href="http://flickr.com/photos/machaggis/143800049/">this</a>.<br />
+{D50, as taken, incadescent, handheld}</p>
+</div>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Oooh</title>
+		<link>https://machaggis.net/bluefacedpixie/2006/03/20/oooh/</link>
+				<pubDate>Tue, 21 Mar 2006 06:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[bfp]]></dc:creator>
+				<category><![CDATA[Cycling]]></category>
+		<category><![CDATA[bluefacedpixie]]></category>
+
+		<guid isPermaLink="false">http://machaggis.net/bluefacedpixie/index.php/2006/03/20/oooh/</guid>
+				<description><![CDATA[I only went to look at sale mountain bikes. Honest. The Redline 925 &#8211; another wishlist item.]]></description>
+								<content:encoded><![CDATA[<p>I only went to look at sale mountain bikes.  Honest.</p>
+<p>The <a href="http://www.redlinebicycles.com/adultbikes/925.html">Redline 925</a> &#8211; another wishlist item.</p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
